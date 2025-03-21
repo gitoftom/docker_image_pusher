@@ -9,3 +9,4 @@ postgres:latest
 minio/minio:latest
 bladex/sentinel-dashboard
 redis:6.0.8
+node:12-alpine
