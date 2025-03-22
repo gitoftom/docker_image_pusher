@@ -1,3 +1,4 @@
+maven:3.6.3-jdk-11
 openjdk:11-jre-slim
 nginx
 nacos/nacos-server:v2.4.2
