@@ -1,1 +1,2 @@
-ubuntu:22.04-minimal
+ubuntu:22.04
+ubuntu:24.04
