@@ -1,1 +1,1 @@
-ubuntu:jammy
+ubuntu:24.04-minimal
